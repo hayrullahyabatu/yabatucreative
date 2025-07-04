@@ -1,0 +1,11 @@
+@tailwind base
+        @tailwind components
+        @tailwind utilities
+        
+        @layer base {
+          :root {
+            --neon-green: #00ff88;
+            --neon-pink: #ff00ff;
+            --neon-yellow: #ffff00;
+          }
+        }
